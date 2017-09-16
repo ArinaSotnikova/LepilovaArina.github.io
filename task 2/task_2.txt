@@ -1,0 +1,18 @@
+\b[oO][^\s]*@[^\s]+\b
+16
+Line 3106: owell/NA/Enron@ENRON, Leticia Barrios/Corp/Enron@ENRON, Milton Brown/HR/Cor=
+Line 3108: @Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =
+Line 3133: on@ENRON, Mary Theresa Franklin/HOU/ECT@ECT, Mike Potter/NA/Enron@Enron, Na=
+Line 3889: owell/NA/Enron@ENRON, Leticia Barrios/Corp/Enron@ENRON, Milton Brown/HR/Cor=
+Line 3891: @Enron, Andrea Yowman/Corp/Enron@ENRON, Angie O'Brian/HR/Corp/Enron@ENRON, =
+Line 3916: on@ENRON, Mary Theresa Franklin/HOU/ECT@ECT, Mike Potter/NA/Enron@Enron, Na=
+Line 4869: Oxley/HOU/ECT@ECT, Joseph Deffner/HOU/ECT@ECT, Jordan Mintz/HOU/ECT@ECT, Mark 
+Line 5390: To: outlook.team@enron.com
+Line 5422: , Patrick Ryder/NA/Enron@Enron, Ryan O'Rourke/ENRON@enronXgate, Yuan Tian/N=
+Line 5441: ON, Sandy Olofson/NPNG/Enron@ENRON, Theresa Byrne/NPNG/Enron@ENRON, Danny M=
+Line 5444:  Schroeder/FGT/Enron@ENRON, Max Brown/OTS/Enron@ENRON, Randy Cantrell/GCO/E=
+Line 5450: Omber/NA/Enron@ENRON, Wes Dempsey/NA/Enron@Enron, Barry Feldman/NYC/MGUSA@M=
+Line 6615: Edward Ondarza/HOU/ECT@ECT, Ozzie Pagan/HOU/ECT@ECT, Kevin M 
+Line 6690: Overdyke/HOU/ECT@ECT, Brian Redmond/HOU/ECT@ECT, Jeffrey A 
+Line 6712: Edward Ondarza/HOU/ECT@ECT, Michelle Parks/Corp/Enron@Enron, David 
+Line 6722: Mintz/HOU/ECT@ECT, David Oxley/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Mike 
